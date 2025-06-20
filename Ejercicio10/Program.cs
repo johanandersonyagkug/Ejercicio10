@@ -24,7 +24,7 @@ namespace Ejercicio10
             }
 
             Console.WriteLine("La suma es:{0} " ,suma);
-           
+            Console.WriteLine("preciona cualquier tecla para salir");
         }
     }
 }   
